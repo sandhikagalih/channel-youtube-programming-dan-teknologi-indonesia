@@ -85,10 +85,28 @@
 
 <br><hr>
 
-#### Tutorial - Livestreaming
+#### Informational
 
-| Nama Channel                 | Teknologi                                   | URL                                              |
-| ---------------------------- | ------------------------------------------- | ------------------------------------------------ |
-| Riza Fahmi                   | JS, Svelte, Elixir, ReactJS, GraphQL, Redis | [link](https://www.youtube.com/c/RizaFahmi)      |
-| Insinyur Online              | Struktur Data, DevOps, Rust, Ruby, Karir    | [link](https://www.youtube.com/c/InsinyurOnline) |
-| Design Chit-chat with Borrys | Design, UI UX, Interview                    | [link](https://www.youtube.com/c/InsinyurOnline) |
+| Nama Channel | Topik                                | URL                                                   |
+| ------------ | ------------------------------------ | ----------------------------------------------------- |
+| Budi Raharjo | Teknologi, Security, Startup, Kuliah | [link](https://www.youtube.com/c/BudiRahardjoBandung) |
+| UpKoding     | Programming, Dunia Kerja             | [link](https://www.youtube.com/c/UpKoding)            |
+
+<br><hr>
+
+#### Live Coding
+
+| Nama Channel               | Topik                                       | URL                                             |
+| -------------------------- | ------------------------------------------- | ----------------------------------------------- |
+| Riza Fahmi                 | JS, Svelte, Elixir, ReactJS, GraphQL, Redis | [link](https://www.youtube.com/c/RizaFahmi)     |
+| i Did IT - Koding Aja Dulu | Golang, Assembly, RetroCoding               | [link](https://www.youtube.com/c/KodingAjaDulu) |
+| Zain Fathoni               | Flutter, React                              | [link](https://www.twitch.tv/resir014)          |
+
+<br><hr>
+
+#### Podcast / Interview / Talk Show
+
+| Nama Channel                 | Teknologi                                | URL                                              |
+| ---------------------------- | ---------------------------------------- | ------------------------------------------------ |
+| Insinyur Online              | Struktur Data, DevOps, Rust, Ruby, Karir | [link](https://www.youtube.com/c/InsinyurOnline) |
+| Design Chit-chat with Borrys | Design, UI UX, Interview                 | [link](https://www.youtube.com/c/DesignChitChat) |
