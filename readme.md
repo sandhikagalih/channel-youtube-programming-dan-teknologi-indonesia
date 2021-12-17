@@ -122,3 +122,11 @@
 | ---------------------------- | ---------------------------------------- | ------------------------------------------------ |
 | Insinyur Online              | Struktur Data, DevOps, Rust, Ruby, Karir | [link](https://www.youtube.com/c/InsinyurOnline) |
 | Design Chit-chat with Borrys | Design, UI UX, Interview                 | [link](https://www.youtube.com/c/DesignChitChat) |
+
+<br><hr>
+
+#### General / Community 
+
+| Nama Channel                 | Topik                                | URL                                              |
+| ---------------------------- | ---------------------------------------- | ------------------------------------------------ |
+| Palembang Digital Community         | React JS, Graph QL, Karir, Sharing Session, Conference, Interview, Programming | [link](https://www.youtube.com/c/PalembangDigital) |
