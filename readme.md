@@ -63,7 +63,7 @@
 | Nama Channel                | Teknologi                                         | URL                                                    |
 | --------------------------- | ------------------------------------------------- | ------------------------------------------------------ |
 | Albert Suwandhi             | Cloud computing AWS                               | [link](https://www.youtube.com/channel/UCJb4A1n9gQDqyOXVpBgQYJA)|
-| Cloud Engineering With Imre | Cloud computing, Golang, Podcast, Livestreaming   | [link](https://www.youtube.com/c/EricoDarmawanHandoyo) |
+| Cloud Engineering With Imre | Cloud computing, Golang, Podcast, Livestreaming   | [link](https://www.youtube.com/c/ImreNagi) |
 | Giri Kuncoro                | Docker, Kubernetes, GitLab, Ansible               | [link](https://www.youtube.com/c/GiriKuncoroDevOps)    |
 | Iqbal Syamil                | Ansible, Nginx, WebAssembly, CI/CD, Livestreaming | [link](https://www.youtube.com/c/IqbalSyamil)          |
 
