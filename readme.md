@@ -10,6 +10,9 @@
 | IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                        | [link](https://www.youtube.com/c/IDStack)       |
 | Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                          | [link](https://www.youtube.com/c/AdenRahmandi)  |
 | LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  |
+|
+| M Fikri         | Javascript, PHP, React, Vue, Codeigniter, Node, Express                                                    | [link](https://www.youtube.com/c/mfikricom)      |
+
 
 <br><hr>
 
