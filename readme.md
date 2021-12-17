@@ -1,4 +1,4 @@
-# Daftar Channel Youtube Programming & Teknologi Indonesia
+# Daftar Channel Youtube Programming & Teknologi Indonesia 🇮🇩
 
 #### Tutorial - General (Frontend & Backend)
 
@@ -9,7 +9,7 @@
 | YukCoding Media | PHP, CodeIgniter, Laravel, Wordpress, React Native, Flutter                                                | [link](https://www.youtube.com/c/YukCoding2)    |
 | IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                        | [link](https://www.youtube.com/c/IDStack)       |
 | Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                          | [link](https://www.youtube.com/c/AdenRahmandi)  |
-| LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpreessJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  |
+| LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  |
 
 <br><hr>
 
