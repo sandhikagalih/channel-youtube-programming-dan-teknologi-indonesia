@@ -87,6 +87,15 @@
 
 <br><hr>
 
+#### Tutorial - 3D Animasi
+
+| Nama Channel     | Teknologi | URL                                               |
+| ---------------- | --------- | ------------------------------------------------- |
+| Dody Priyatmono  | Blender, Unity | [link](https://youtube.com/c/DodyPriyatmono)  |
+| Arga Dewanto     | Blender   | [link](https://youtube.com/c/ArgaDewanto) |
+
+<br><hr>
+
 #### Informational
 
 | Nama Channel | Topik                                | URL                                                   |
