@@ -125,8 +125,8 @@
 
 <br><hr>
 
-#### General / Community 
+#### Community 
 
 | Nama Channel                 | Topik                                | URL                                              |
 | ---------------------------- | ---------------------------------------- | ------------------------------------------------ |
-| Palembang Digital Community         | React JS, Graph QL, Karir, Sharing Session, Conference, Interview, Programming | [link](https://www.youtube.com/c/PalembangDigital) |
+| Palembang Digital Community         | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
