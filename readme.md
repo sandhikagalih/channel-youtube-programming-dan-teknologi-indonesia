@@ -54,6 +54,7 @@
 | Erico Darmawan Handoyo | Dart, Flutter                    | [link](https://www.youtube.com/c/EricoDarmawanHandoyo) |
 | Lazday Indonesia       | Java, Kotlin, Dart, Flutter      | [link](https://www.youtube.com/c/LazdayIndonesia)      |
 | Robby Dianputra        | Java, Wordpress, Kotlin, Flutter | [link](https://www.youtube.com/c/RobbyDianputra)       |
+| Kuldii Project         | Dart, Flutter                    | [link](https://www.youtube.com/c/KuldiiProject)        |
 
 <br><hr>
 
