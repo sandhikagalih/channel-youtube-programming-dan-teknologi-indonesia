@@ -85,6 +85,7 @@
 | Kajew Developer  | C#, Unity | [link](https://www.youtube.com/c/KajewDeveloper)  |
 | Livander Gamedev |           | [link](https://www.youtube.com/c/LivanderGamedev) |
 | Andy Lukito      |           | [link](https://www.youtube.com/c/AndyLukito)      |
+| JustCode         |           | [link](https://www.youtube.com/channel/UCWcNXmY0sdUntgfp_xRvn8Q)      |
 
 <br><hr>
 
