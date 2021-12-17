@@ -10,8 +10,7 @@
 | IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                        | [link](https://www.youtube.com/c/IDStack)       |
 | Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                          | [link](https://www.youtube.com/c/AdenRahmandi)  |
 | LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  |
-
-<br><hr>
+| Dosen Ngoding  | HTML, Laravel, Kotlin, Flutter, Meme Based Education                                                          | [link](https://www.youtube.com/c/DosenNgoding)  |
 
 #### Tutorial - Frontend
 
