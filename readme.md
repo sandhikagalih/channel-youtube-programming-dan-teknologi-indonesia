@@ -12,6 +12,7 @@
 | LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  |
 | Dosen Ngoding  | HTML, Laravel, Kotlin, Flutter, Meme Based Education                                                          | [link](https://www.youtube.com/c/DosenNgoding)  |
 
+<br><hr>
 #### Tutorial - Frontend
 
 | Nama Channel    | Teknologi                                              | URL                                                              |
