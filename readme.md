@@ -98,6 +98,15 @@
 
 <br><hr>
 
+#### Tutorial - UI & UX
+
+| Nama Channel                | Teknologi                             | URL                                               |
+| ----------------------------| --------------------------------------| ------------------------------------------------------------|
+| Creative Academy Indonesia  | Adobe XD, Figma, HTML, CSS, Bootstrap | [link](https://www.youtube.com/c/CreativeAcademyIndonesia)  |
+| Mas KukuhAldy               | Figma, Adobe XD                       | [link](https://www.youtube.com/c/MasKukuhAldy)              |
+
+<br><hr>
+
 #### Informational
 
 | Nama Channel | Topik                                | URL                                                   |
