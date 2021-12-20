@@ -2,14 +2,15 @@
 
 #### Tutorial - General (Frontend & Backend)
 
-| Nama Channel    | Teknologi                                                                                                  | URL                                             |
-| --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| WPU             | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming | [link](http://youtube.com/webprogrammingunpas)  |
-| Sekolah Koding  | HTML, CSS, Javascript, VueJS, ReactJS, <br> Laravel, Golang, Python, Kotlin, Dart, Flutter, TailwindCSS    | [link](https://www.youtube.com/c/SekolahKoding) |
-| YukCoding Media | PHP, CodeIgniter, Laravel, Wordpress, React Native, Flutter                                                | [link](https://www.youtube.com/c/YukCoding2)    |
-| IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                        | [link](https://www.youtube.com/c/IDStack)       |
-| Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                          | [link](https://www.youtube.com/c/AdenRahmandi)  |
-| LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  |
+| Nama Channel    | Teknologi                                                                                                                                                                    | URL                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| WPU             | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming                                                                   | [link](http://youtube.com/webprogrammingunpas)                   |
+| Sekolah Koding  | HTML, CSS, Javascript, VueJS, ReactJS, <br> Laravel, Golang, Python, Kotlin, Dart, Flutter, TailwindCSS                                                                      | [link](https://www.youtube.com/c/SekolahKoding)                  |
+| YukCoding Media | PHP, CodeIgniter, Laravel, Wordpress, React Native, Flutter                                                                                                                  | [link](https://www.youtube.com/c/YukCoding2)                     |
+| IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                                                                                          | [link](https://www.youtube.com/c/IDStack)                        |
+| Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                                                                                            | [link](https://www.youtube.com/c/AdenRahmandi)                   |
+| LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br> Golang, Tailwind, Twin Macro, Zustand, Hyperledger,<br> Ant Design | [link](https://www.youtube.com/c/LampungDev)                     |
+| Nusendra        | Typescript, ExpressJS, VueJS, Design Pattern                                                                                                                                 | [link](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA) |
 
 <br><hr>
 
@@ -39,11 +40,11 @@
 
 #### Tutorial - Python & Data Science (AI / ML)
 
-| Nama Channel          | Teknologi                                                                                        | URL                                                   |
-| --------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| Indonesia Belajar     | Python, Cloud, GNU/Linux, ML, DS, MySQL, Networking, DSA, <br> Statistic, Podcast, Livestreaming | [link](https://www.youtube.com/c/IndonesiaBelajarKomputer)        |
-| Mega Bagus Herlambang | AI, Data Science, Statistic                                                                      | [link](https://www.youtube.com/c/MegaBagusHerlambang) |
-| Sunu Wibirama         | Data Science, AI, ML, Scientific Writing, Mathematics                                            | [link](https://www.youtube.com/user/wibirama)         |
+| Nama Channel          | Teknologi                                                                                        | URL                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| Indonesia Belajar     | Python, Cloud, GNU/Linux, ML, DS, MySQL, Networking, DSA, <br> Statistic, Podcast, Livestreaming | [link](https://www.youtube.com/c/IndonesiaBelajarKomputer) |
+| Mega Bagus Herlambang | AI, Data Science, Statistic                                                                      | [link](https://www.youtube.com/c/MegaBagusHerlambang)      |
+| Sunu Wibirama         | Data Science, AI, ML, Scientific Writing, Mathematics                                            | [link](https://www.youtube.com/user/wibirama)              |
 
 <br><hr>
 
@@ -60,12 +61,12 @@
 
 #### Tutorial - Cloud & DevOps
 
-| Nama Channel                | Teknologi                                         | URL                                                    |
-| --------------------------- | ------------------------------------------------- | ------------------------------------------------------ |
-| Albert Suwandhi             | Cloud computing AWS                               | [link](https://www.youtube.com/channel/UCJb4A1n9gQDqyOXVpBgQYJA)|
-| Cloud Engineering With Imre | Cloud computing, Golang, Podcast, Livestreaming   | [link](https://www.youtube.com/c/ImreNagi) |
-| Giri Kuncoro                | Docker, Kubernetes, GitLab, Ansible               | [link](https://www.youtube.com/c/GiriKuncoroDevOps)    |
-| Iqbal Syamil                | Ansible, Nginx, WebAssembly, CI/CD, Livestreaming | [link](https://www.youtube.com/c/IqbalSyamil)          |
+| Nama Channel                | Teknologi                                         | URL                                                              |
+| --------------------------- | ------------------------------------------------- | ---------------------------------------------------------------- |
+| Albert Suwandhi             | Cloud computing AWS                               | [link](https://www.youtube.com/channel/UCJb4A1n9gQDqyOXVpBgQYJA) |
+| Cloud Engineering With Imre | Cloud computing, Golang, Podcast, Livestreaming   | [link](https://www.youtube.com/c/ImreNagi)                       |
+| Giri Kuncoro                | Docker, Kubernetes, GitLab, Ansible               | [link](https://www.youtube.com/c/GiriKuncoroDevOps)              |
+| Iqbal Syamil                | Ansible, Nginx, WebAssembly, CI/CD, Livestreaming | [link](https://www.youtube.com/c/IqbalSyamil)                    |
 
 <br><hr>
 
@@ -80,21 +81,21 @@
 
 #### Tutorial - Game Development
 
-| Nama Channel     | Teknologi | URL                                               |
-| ---------------- | --------- | ------------------------------------------------- |
-| Kajew Developer  | C#, Unity | [link](https://www.youtube.com/c/KajewDeveloper)  |
-| Livander Gamedev |           | [link](https://www.youtube.com/c/LivanderGamedev) |
-| Andy Lukito      |           | [link](https://www.youtube.com/c/AndyLukito)      |
-| JustCode         |           | [link](https://www.youtube.com/channel/UCWcNXmY0sdUntgfp_xRvn8Q)      |
+| Nama Channel     | Teknologi | URL                                                              |
+| ---------------- | --------- | ---------------------------------------------------------------- |
+| Kajew Developer  | C#, Unity | [link](https://www.youtube.com/c/KajewDeveloper)                 |
+| Livander Gamedev |           | [link](https://www.youtube.com/c/LivanderGamedev)                |
+| Andy Lukito      |           | [link](https://www.youtube.com/c/AndyLukito)                     |
+| JustCode         |           | [link](https://www.youtube.com/channel/UCWcNXmY0sdUntgfp_xRvn8Q) |
 
 <br><hr>
 
 #### Tutorial - 3D Animasi
 
-| Nama Channel     | Teknologi | URL                                               |
-| ---------------- | --------- | ------------------------------------------------- |
-| Dody Priyatmono  | Blender, Unity | [link](https://youtube.com/c/DodyPriyatmono)  |
-| Arga Dewanto     | Blender   | [link](https://youtube.com/c/ArgaDewanto) |
+| Nama Channel    | Teknologi      | URL                                          |
+| --------------- | -------------- | -------------------------------------------- |
+| Dody Priyatmono | Blender, Unity | [link](https://youtube.com/c/DodyPriyatmono) |
+| Arga Dewanto    | Blender        | [link](https://youtube.com/c/ArgaDewanto)    |
 
 <br><hr>
 
@@ -127,8 +128,8 @@
 
 <br><hr>
 
-#### Community 
+#### Community
 
-| Nama Channel                 | Topik                                | URL                                              |
-| ---------------------------- | ---------------------------------------- | ------------------------------------------------ |
-| Palembang Digital Community         | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
+| Nama Channel                | Topik                                                   | URL                                                |
+| --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
+| Palembang Digital Community | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
