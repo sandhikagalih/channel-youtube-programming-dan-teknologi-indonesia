@@ -100,6 +100,15 @@
 
 <br><hr>
 
+#### Tutorial - UI/UX Design
+
+| Nama Channel                 | Teknologi                 | URL                                                                |
+| ---------------------------- | ---------                 | ------------------------------------------------------------------ |
+| Creative Academy Indonesia   | Figma, XD, Graphic Design | [link](https://www.youtube.com/c/CreativeAcademyIndonesia)         |
+| Mas KukuhAldy                | Figma, XD, Graphic Design | [link](https://www.youtube.com/c/MasKukuhAldy)                     |
+
+<br><hr>
+
 #### Informational
 
 | Nama Channel | Topik                                | URL                                                   |
