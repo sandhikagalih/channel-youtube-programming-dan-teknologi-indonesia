@@ -2,15 +2,18 @@
 
 #### Tutorial - General (Frontend & Backend)
 
-| Nama Channel    | Teknologi                                                                                                                                                                    | URL                                                              |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| WPU             | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming                                                                   | [link](http://youtube.com/webprogrammingunpas)                   |
-| Sekolah Koding  | HTML, CSS, Javascript, VueJS, ReactJS, <br> Laravel, Golang, Python, Kotlin, Dart, Flutter, TailwindCSS                                                                      | [link](https://www.youtube.com/c/SekolahKoding)                  |
-| YukCoding Media | PHP, CodeIgniter, Laravel, Wordpress, React Native, Flutter                                                                                                                  | [link](https://www.youtube.com/c/YukCoding2)                     |
-| IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                                                                                          | [link](https://www.youtube.com/c/IDStack)                        |
-| Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                                                                                            | [link](https://www.youtube.com/c/AdenRahmandi)                   |
-| LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br> Golang, Tailwind, Twin Macro, Zustand, Hyperledger,<br> Ant Design | [link](https://www.youtube.com/c/LampungDev)                     |
+| Nama Channel    | Teknologi                                                                                                  | URL                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| WPU             | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming | [link](http://youtube.com/webprogrammingunpas)  |
+| Sekolah Koding  | HTML, CSS, Javascript, VueJS, ReactJS, <br> Laravel, Golang, Python, Kotlin, Dart, Flutter, TailwindCSS    | [link](https://www.youtube.com/c/SekolahKoding) |
+| YukCoding Media | PHP, CodeIgniter, Laravel, Wordpress, React Native, Flutter                                                | [link](https://www.youtube.com/c/YukCoding2)    |
+| IDStack         | HTML, CSS, PHP, CodeIgniter, Laravel, VueJS, Git, Livewire, <br> MEVN, MERN, NextJS                        | [link](https://www.youtube.com/c/IDStack)       |
+| Aden Rahmandi   | HTML, CSS, Javascript, PHP, Wordpress, Case Study                                                          | [link](https://www.youtube.com/c/AdenRahmandi)  |
+| Dosen Ngoding   | HTML, Laravel, Kotlin, Flutter, Meme Based Education                                                          | [link](https://www.youtube.com/c/DosenNgoding)  |
+| LampungDev      | Algoritma, ReactJS, React Native, NextJS, Swift, <br> GatsbyJS, Redux, NodeJS, Wordpress, ExpressJS, <br>  Golang,  Tailwind, Twin Macro, Zustand, Hyperledger,<br>  Ant Design | [link](https://www.youtube.com/c/LampungDev)  
+| M Fikri         | Javascript, PHP, React, Vue, Codeigniter, Node, Express                                                    | [link](https://www.youtube.com/c/mfikricom)     
 | Nusendra        | Typescript, ExpressJS, VueJS, Design Pattern                                                                                                                                 | [link](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA) |
+
 
 <br><hr>
 
