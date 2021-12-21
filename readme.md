@@ -25,6 +25,7 @@
 | Balademy        | Angular, Livewire, Vue                                 | [link](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg) |
 | Prawito Hudoro  | ReactJS, NextJS, React Native, MERN, JS, Livestreaming | [link](https://www.youtube.com/c/prawitohudoro)                  |
 | Wahidev Academy | React, React Native                                    | [link](https://www.youtube.com/c/WahidevAcademy)                 |
+| kukuhaldy       | Design, Figma                                          | [link](https://www.youtube.com/c/MasKukuhAldy)                   |
 
 <br><hr>
 
