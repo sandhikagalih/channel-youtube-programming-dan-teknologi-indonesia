@@ -21,6 +21,7 @@
 
 | Nama Channel    | Teknologi                                              | URL                                                              |
 | --------------- | ------------------------------------------------------ | ---------------------------------------------------------------- |
+| Arief Ayic      | JS, CSS, Vue                                           | [link](https://www.youtube.com/channel/UCETXjwgYK1EaeKef6Dkoyxg) |
 | ArrayID         | JS, CSS, TailwindCSS, NextJS, ReactJS                  | [link](https://www.youtube.com/c/ArrayID)                        |
 | Balademy        | Angular, Livewire, Vue                                 | [link](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg) |
 | Prawito Hudoro  | ReactJS, NextJS, React Native, MERN, JS, Livestreaming | [link](https://www.youtube.com/c/prawitohudoro)                  |
