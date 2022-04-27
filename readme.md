@@ -136,3 +136,13 @@
 | Nama Channel                | Topik                                                   | URL                                                |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | Palembang Digital Community | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
+
+<br><hr>
+
+#### Pemograman Dekstop GUI
+
+| Nama Channel                | Topik                                                   | URL                                                |
+| --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
+| Hari Aspriyono              | Java GUI,                                               | [link](https://www.youtube.com/c/HariAspriyono/playlists) |
+
+<br><hr>
