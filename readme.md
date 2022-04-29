@@ -139,11 +139,12 @@
 
 <br><hr>
 
-#### Pemograman Dekstop GUI
+#### Pemograman Dekstop Java SWING/GUI
 
 | Nama Channel                | Topik                                                   | URL                                                              | 
 | --------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
-| Hari Aspriyono              | Java GUI,                                               | [link](https://www.youtube.com/c/HariAspriyono/playlists)        |
-| Mudah Belajar Pemrograman   | Java Dasar, Java GUI                                    | [link](https://www.youtube.com/channel/UCh3THwcm9AUDVZBd2tZmpHA) |
+| Hari Aspriyono              | Java Dasar, SWING/GUI                                   | [link](https://www.youtube.com/c/HariAspriyono/playlists)        |
+| Mudah Belajar Pemrograman   | Java Dasar, SWING/GUI                                   | [link](https://www.youtube.com/channel/UCh3THwcm9AUDVZBd2tZmpHA) |
+| Roemah Rotan                | Java Dasar, SWING/GUI                                   | [link](https://www.youtube.com/channel/UCSAEGNs2wEcVI2s2XiPBKHg) |
 
 <br><hr>
