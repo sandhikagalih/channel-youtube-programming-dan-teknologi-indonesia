@@ -148,6 +148,7 @@
 | Roemah Rotan                | Java Dasar, Java Swing                                  | [link](https://www.youtube.com/channel/UCSAEGNs2wEcVI2s2XiPBKHg) |
 | Indra Hidayatulloh          | Java Dasar, Java Swing                                  | [link](https://www.youtube.com/channel/UCisOVxMQ1RUD7TFJsXanAEw) |
 | Mastahcode                  | Java Dasar, Java OOP                                    | [link](https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ) |
+| Agus Nur Khomarudin         | Java Dasar, Java OOP                                    | [link](https://www.youtube.com/user/agusnurkhomarudin/playlists) |
 
 
 <br><hr>
