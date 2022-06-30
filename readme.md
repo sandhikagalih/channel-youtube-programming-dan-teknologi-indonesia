@@ -21,7 +21,7 @@
 
 | Nama Channel    | Teknologi                                              | URL                                                              |
 | --------------- | ------------------------------------------------------ | ---------------------------------------------------------------- |
-| ArrayID         | JS, CSS, TailwindCSS, NextJS, ReactJS                  | [link](https://www.youtube.com/c/ArrayID)                        |
+| ArrayID         | JS, CSS, TailwindCSS, NextJS, ReactJS                  | [link](https://www.youtube.com/channel/UCQzfClEEDfuVuES-GQUy6aw) |
 | Balademy        | Angular, Livewire, Vue                                 | [link](https://www.youtube.com/channel/UCo2MhO0TrEUKdL9Pt-JNgLg) |
 | Prawito Hudoro  | ReactJS, NextJS, React Native, MERN, JS, Livestreaming | [link](https://www.youtube.com/c/prawitohudoro)                  |
 | Wahidev Academy | React, React Native                                    | [link](https://www.youtube.com/c/WahidevAcademy)                 |
