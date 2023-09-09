@@ -1,7 +1,7 @@
 # Daftar Channel Youtube Programming & Teknologi Indonesia 🇮🇩
 
 #### Tutorial - General (Frontend & Backend)
-
+gacor kang
 | Nama Channel    | Teknologi                                                                                                  | URL                                             |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | WPU             | HTML, CSS, Javascript, PHP, Git, GitHub, SASS, <br> Bootstrap, NodeJS, CodeIgniter, Laravel, Livestreaming | [link](http://youtube.com/webprogrammingunpas)  |
