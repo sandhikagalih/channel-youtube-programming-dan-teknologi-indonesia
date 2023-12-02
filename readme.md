@@ -118,6 +118,7 @@
 | i Did IT - Koding Aja Dulu | Golang, Assembly, RetroCoding               | [link](https://www.youtube.com/c/KodingAjaDulu)                                     |
 | Zain Fathoni               | Flutter, React                              | [link](https://www.youtube.com/c/ZainFathoni)                                       |
 | Resir014                   | React, Typescript, Gaming                   | [link](https://www.twitch.tv/resir014) / [link](https://www.youtube.com/c/resir014) |
+| VoidFnc                    | JS, Express, MongoDB, ReactJS,               | [link](https://www.youtube.com/@voidfnc)                                         |
 
 <br><hr>
 
