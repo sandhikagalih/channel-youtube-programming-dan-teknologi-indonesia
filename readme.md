@@ -121,6 +121,14 @@
 
 <br><hr>
 
+#### UIUX Design
+
+| Nama Channel                | Topik                                                   | URL                                                |
+| --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
+| Mas Kukuh Aldy | UI/UX, Tips Trick Desain | [link](https://www.youtube.com/c/MasKukuhAldy) |
+
+<br><hr>
+
 #### Podcast / Interview / Talk Show
 
 | Nama Channel                 | Teknologi                                | URL                                              |
