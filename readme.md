@@ -37,6 +37,7 @@
 | Parsinta             | Laravel, TDD, Breeze, Vue, Tailwind                                                              | [link](https://www.youtube.com/c/Parsinta)            |
 | VIP CODE STUDIO      | NodeJS, Discord.js, Figma                                                                        | [link](https://www.youtube.com/c/vipcodestudio)       |
 | Agung Setiawan       | Golang, Python, Ruby                                                                             | [link](https://www.youtube.com/c/AgungSetiawanCoding) |
+| Arfy Slowy           | C, Python                                                                                        | [link](https://www.youtube.com/@arfyslowy)            |
 
 <br><hr>
 
@@ -125,7 +126,7 @@
 
 | Nama Channel                | Topik                                                   | URL                                                |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
-| Mas Kukuh Aldy | UI/UX, Tips Trick Desain | [link](https://www.youtube.com/c/MasKukuhAldy) |
+| Mas Kukuh Aldy              | UI/UX, Tips Trick Desain                                | [link](https://www.youtube.com/c/MasKukuhAldy) |
 
 <br><hr>
 
