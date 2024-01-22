@@ -43,11 +43,13 @@
 
 #### Tutorial - Python & Data Science (AI / ML)
 
-| Nama Channel          | Teknologi                                                                                        | URL                                                        |
-| --------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| Indonesia Belajar     | Python, Cloud, GNU/Linux, ML, DS, MySQL, Networking, DSA, <br> Statistic, Podcast, Livestreaming | [link](https://www.youtube.com/c/IndonesiaBelajarKomputer) |
-| Mega Bagus Herlambang | AI, Data Science, Statistic                                                                      | [link](https://www.youtube.com/c/MegaBagusHerlambang)      |
-| Sunu Wibirama         | Data Science, AI, ML, Scientific Writing, Mathematics                                            | [link](https://www.youtube.com/user/wibirama)              |
+
+| Nama Channel          | Teknologi                                                                                        | URL                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| Indonesia Belajar     | Python, Cloud, GNU/Linux, ML, DS, MySQL, Networking, DSA, <br> Statistic, Podcast, Livestreaming | [link](https://www.youtube.com/c/IndonesiaBelajarKomputer)        |
+| Mega Bagus Herlambang | AI, Data Science, Statistic                                                                      | [link](https://www.youtube.com/c/MegaBagusHerlambang) |
+| Sunu Wibirama         | Data Science, AI, ML, Scientific Writing, Mathematics                                            | [link](https://www.youtube.com/user/wibirama)         |
+| Ali Akbar Septiandri  | Statistic (Probability & Distribution), Data Science, Podcast                                    | [link](https://www.youtube.com/c/AliAkbarSeptiandriID) |
 
 <br><hr>
 
