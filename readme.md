@@ -108,6 +108,7 @@
 | ------------ | ------------------------------------ | ----------------------------------------------------- |
 | Budi Raharjo | Teknologi, Security, Startup, Kuliah | [link](https://www.youtube.com/c/BudiRahardjoBandung) |
 | UpKoding     | Programming, Dunia Kerja             | [link](https://www.youtube.com/c/UpKoding)            |
+| Dea Afrizal  | Programming, Dunia Kerja             | [link](https://www.youtube.com/c/DeaAfrizal)          |
 
 <br><hr>
 
