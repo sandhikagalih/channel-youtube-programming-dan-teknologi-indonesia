@@ -144,3 +144,19 @@
 | Nama Channel                | Topik                                                   | URL                                                |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | Palembang Digital Community | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
+
+<br><hr>
+
+#### Pemograman GUI java SWING
+
+| Nama Channel                | Topik                                                   | URL                                                              | 
+| --------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
+| Hari Aspriyono              | Java Dasar, Java Swing                                  | [link](https://www.youtube.com/c/HariAspriyono/playlists)        |
+| Mudah Belajar Pemrograman   | Java Dasar, Java Swing                                  | [link](https://www.youtube.com/channel/UCh3THwcm9AUDVZBd2tZmpHA) |
+| Roemah Rotan                | Java Dasar, Java Swing                                  | [link](https://www.youtube.com/channel/UCSAEGNs2wEcVI2s2XiPBKHg) |
+| Indra Hidayatulloh          | Java Dasar, Java Swing                                  | [link](https://www.youtube.com/channel/UCisOVxMQ1RUD7TFJsXanAEw) |
+| Mastahcode                  | Java Dasar, Java OOP                                    | [link](https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ) |
+| Agus Nur Khomarudin         | Java Dasar, Java OOP                                    | [link](https://www.youtube.com/user/agusnurkhomarudin/playlists) |
+
+
+<br><hr>
