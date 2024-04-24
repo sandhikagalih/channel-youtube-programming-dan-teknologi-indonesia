@@ -84,12 +84,14 @@
 
 #### Tutorial - Game Development
 
-| Nama Channel     | Teknologi | URL                                                              |
-| ---------------- | --------- | ---------------------------------------------------------------- |
-| Kajew Developer  | C#, Unity | [link](https://www.youtube.com/c/KajewDeveloper)                 |
-| Livander Gamedev |           | [link](https://www.youtube.com/c/LivanderGamedev)                |
-| Andy Lukito      |           | [link](https://www.youtube.com/c/AndyLukito)                     |
-| JustCode         |           | [link](https://www.youtube.com/channel/UCWcNXmY0sdUntgfp_xRvn8Q) |
+| Nama Channel            | Teknologi | URL                                                              |
+| ------------------------| --------- | ---------------------------------------------------------------- |
+| Kajew Developer         | C#, Unity | [link](https://www.youtube.com/c/KajewDeveloper)                 |
+| Livander Gamedev        |           | [link](https://www.youtube.com/c/LivanderGamedev)                |
+| Andy Lukito             |           | [link](https://www.youtube.com/c/AndyLukito)                     |
+| JustCode                |           | [link](https://www.youtube.com/channel/UCWcNXmY0sdUntgfp_xRvn8Q) |
+| Asosiasi Game Indonesia |           | [link](https://www.youtube.com/c/AsosiasiGameIndonesia)          |
+| Adam Ardisasmita        |           | [link](https://www.youtube.com/c/AdamArdisasmita)                |
 
 <br><hr>
 
